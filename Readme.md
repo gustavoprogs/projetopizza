@@ -18,21 +18,35 @@
 
 ![Projeto para Desktop](images\screenshots\pc.jpg)
 
+
+
+
+
 ## Mobile (max-width 1000px):
 
 ![Projeto Mobile](images\screenshots\tablet.jpg)
 
 
 
+
+
 ## Modal
 
+
+
 ![Modal](images\screenshots\modal.jpg)
+
+
+
+
 
 
 
 ## Carrinho de vendas
 
 ![Carrinho de vendas](images\screenshots\pc-carrinho.jpg)
+
+
 
 
 
