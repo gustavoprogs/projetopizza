@@ -16,7 +16,8 @@
 
 ## Desktop (min-width 1000px):
 
-![Projeto para Desktop](images\screenshots\pc.jpg)
+![Projeto para Desktop](images/screenshots/pc.jpg)
+
 
 
 
