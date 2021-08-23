@@ -1,4 +1,4 @@
-# Projeto Aplicação Web para Pizzaria :pizza:
+# Aplicação Web para Pizzaria :pizza:
 
 ### Tecnologias utilizadas:
 
